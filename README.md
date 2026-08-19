@@ -1,5 +1,3 @@
-# springbootA691D-
-springbootA691D 校园论坛系统
 ## 源码问题查看主页咨询
 
 ### 一、关键词
